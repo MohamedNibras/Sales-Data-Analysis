@@ -1,0 +1,20 @@
+{
+  "rows": 300,
+  "total_sales": 8177427.18,
+  "total_profit": 1247626.72,
+  "orders": 300,
+  "units": 735,
+  "avg_order_value": 27258.09,
+  "category": {
+    "Electronics": 6200219.22,
+    "Furniture": 1961986.82,
+    "Stationery": 15221.14
+  },
+  "region": {
+    "West": 363485.1,
+    "Central": 257304.15,
+    "South": 233688.73,
+    "North": 220604.51,
+    "East": 172544.23
+  }
+}

@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Region,City,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Mode
+ORD0047,2025-01-05,Arjun Nair,Printer,Electronics,South,Chennai,1,10176.48,0.15,8650.01,8141.18,508.83,Credit Card
+ORD0141,2025-01-05,Priya Menon,Office Chair,Furniture,North,Delhi,2,8752.69,0.15,14879.57,13129.03,1750.54,Net Banking
+ORD0291,2025-01-06,Vikram Shah,Bookshelf,Furniture,North,Delhi,1,6842.7,0.02,6705.85,5268.88,1436.97,Credit Card
+ORD0130,2025-01-08,Diya Patel,Pen Set,Stationery,South,Chennai,3,147.84,0.15,376.99,266.11,110.88,Net Banking
+ORD0157,2025-01-11,Ananya Rao,Bookshelf,Furniture,Central,Bhopal,1,6813.53,0.02,6677.26,5246.42,1430.84,Credit Card
+ORD0053,2025-01-13,Rohan Das,Monitor,Electronics,North,Delhi,3,13772.56,0.05,39251.8,32227.79,7024.01,Debit Card
+ORD0001,2025-01-13,Vikram Shah,Mouse,Electronics,North,Delhi,3,767.35,0.02,2256.01,1611.43,644.58,Cash
+ORD0120,2025-01-15,Rohan Das,Mouse,Electronics,South,Chennai,6,813.94,0.02,4785.97,3418.55,1367.42,Cash
+ORD0285,2025-01-20,Rohan Das,Office Chair,Furniture,East,Kolkata,1,8592.43,0.0,8592.43,6444.32,2148.11,Net Banking
+ORD0052,2025-01-20,Rohan Das,Notebook,Stationery,East,Kolkata,4,76.45,0.08,281.34,198.77,82.57,UPI
+ORD0112,2025-01-21,Aarav Sharma,Bookshelf,Furniture,East,Kolkata,5,7262.68,0.1,32682.06,27961.32,4720.74,Credit Card
+ORD0278,2025-01-22,Vikram Shah,Office Chair,Furniture,West,Mumbai,1,8791.23,0.05,8351.67,6593.42,1758.25,Debit Card
+ORD0222,2025-01-23,Meera Iyer,Pen Set,Stationery,North,Delhi,3,161.54,0.05,460.39,290.77,169.62,Credit Card
+ORD0163,2025-01-23,Rohan Das,Bookshelf,Furniture,Central,Bhopal,3,7457.8,0.15,19017.39,17227.52,1789.87,Net Banking
+ORD0015,2025-01-25,Priya Menon,Mouse,Electronics,West,Mumbai,4,755.56,0.02,2961.8,2115.57,846.23,Credit Card
+ORD0199,2025-01-27,Diya Patel,Bookshelf,Furniture,East,Kolkata,4,7164.98,0.0,28659.92,22068.14,6591.78,Cash
+ORD0045,2025-01-27,Aarav Sharma,Office Chair,Furniture,North,Delhi,1,8396.06,0.05,7976.26,6297.05,1679.21,Debit Card
+ORD0101,2025-01-27,Kabir Singh,Keyboard,Electronics,North,Delhi,1,1904.18,0.0,1904.18,1371.01,533.17,Net Banking
+ORD0179,2025-01-27,Rohan Das,Mouse,Electronics,North,Delhi,1,832.57,0.0,832.57,582.8,249.77,Net Banking
+ORD0213,2025-01-28,Meera Iyer,Notebook,Stationery,North,Delhi,2,78.39,0.08,144.24,101.91,42.33,UPI
+ORD0105,2025-01-31,Rohan Das,Bookshelf,Furniture,South,Chennai,3,7268.9,0.02,21370.57,16791.16,4579.41,Credit Card
+ORD0164,2025-02-01,Sara Khan,Laptop,Electronics,North,Delhi,6,68611.9,0.08,378737.69,337570.55,41167.14,Net Banking
+ORD0041,2025-02-05,Arjun Nair,Desk,Furniture,West,Mumbai,4,11749.49,0.02,46058.0,35718.45,10339.55,Debit Card
+ORD0244,2025-02-07,Sara Khan,Bookshelf,Furniture,West,Mumbai,1,6795.07,0.0,6795.07,5232.2,1562.87,Cash
+ORD0262,2025-02-07,Priya Menon,Office Chair,Furniture,East,Kolkata,2,8432.48,0.1,15178.46,12648.72,2529.74,Cash
+ORD0233,2025-02-08,Aarav Sharma,Laptop,Electronics,South,Chennai,3,64024.59,0.1,172866.39,157500.49,15365.9,UPI
+ORD0296,2025-02-09,Ananya Rao,Desk,Furniture,Central,Bhopal,5,11255.44,0.1,50649.48,42770.67,7878.81,Cash
+ORD0189,2025-02-09,Meera Iyer,Keyboard,Electronics,South,Chennai,2,1688.84,0.1,3039.91,2431.93,607.98,Debit Card
+ORD0236,2025-02-09,Vikram Shah,Pen Set,Stationery,East,Kolkata,2,150.71,0.08,277.31,180.85,96.46,Debit Card
+ORD0216,2025-02-10,Nisha Reddy,Laptop,Electronics,Central,Bhopal,1,62042.81,0.02,60801.95,50875.1,9926.85,Cash
+ORD0036,2025-02-11,Kabir Singh,Printer,Electronics,South,Chennai,4,8844.15,0.0,35376.6,28301.28,7075.32,Credit Card
+ORD0165,2025-02-11,Priya Menon,Mouse,Electronics,East,Kolkata,1,754.99,0.02,739.89,528.49,211.4,Cash
+ORD0289,2025-02-14,Meera Iyer,Desk,Furniture,West,Mumbai,2,11223.14,0.02,21997.35,17059.17,4938.18,UPI
+ORD0115,2025-02-16,Ishaan Kumar,Pen Set,Stationery,North,Delhi,2,147.8,0.05,280.82,177.36,103.46,Debit Card
+ORD0170,2025-02-17,Arjun Nair,Mouse,Electronics,South,Chennai,2,831.31,0.05,1579.49,1163.83,415.66,Credit Card
+ORD0031,2025-02-20,Ananya Rao,Printer,Electronics,North,Delhi,1,10258.91,0.0,10258.91,8207.13,2051.78,UPI
+ORD0281,2025-02-21,Aarav Sharma,Laptop,Electronics,South,Chennai,2,67260.52,0.0,134521.04,110307.25,24213.79,Cash
+ORD0205,2025-02-21,Aarav Sharma,Office Chair,Furniture,Central,Bhopal,2,8554.09,0.15,14541.95,12831.14,1710.81,Debit Card
+ORD0098,2025-02-21,Rohan Das,Office Chair,Furniture,South,Chennai,4,8222.9,0.05,31247.02,24668.7,6578.32,Credit Card
+ORD0085,2025-02-22,Diya Patel,Monitor,Electronics,Central,Bhopal,3,13555.55,0.15,34566.65,31719.99,2846.66,Cash
+ORD0100,2025-02-22,Sara Khan,Pen Set,Stationery,West,Mumbai,4,151.78,0.08,558.55,364.27,194.28,Debit Card
+ORD0181,2025-02-26,Vikram Shah,Notebook,Stationery,Central,Bhopal,1,82.28,0.08,75.7,53.48,22.22,Debit Card
+ORD0237,2025-02-28,Arjun Nair,Monitor,Electronics,West,Mumbai,1,13296.75,0.1,11967.08,10371.47,1595.61,Credit Card
+ORD0083,2025-02-28,Priya Menon,Bookshelf,Furniture,North,Delhi,3,6623.42,0.05,18876.75,15300.1,3576.65,Credit Card
+ORD0103,2025-03-02,Ananya Rao,Monitor,Electronics,Central,Bhopal,2,13812.23,0.1,24862.01,21547.08,3314.93,Cash
+ORD0239,2025-03-04,Diya Patel,Monitor,Electronics,West,Mumbai,1,13045.88,0.02,12784.96,10175.79,2609.17,Debit Card
+ORD0228,2025-03-05,Kabir Singh,Office Chair,Furniture,West,Mumbai,4,8414.25,0.08,30964.44,25242.75,5721.69,Debit Card
+ORD0099,2025-03-06,Nisha Reddy,Printer,Electronics,East,Kolkata,1,10220.93,0.1,9198.84,8176.74,1022.1,UPI
+ORD0263,2025-03-07,Meera Iyer,Mouse,Electronics,Central,Bhopal,6,786.42,0.05,4482.59,3302.96,1179.63,UPI
+ORD0245,2025-03-07,Ishaan Kumar,Desk,Furniture,Central,Bhopal,4,12538.1,0.15,42629.54,38115.82,4513.72,UPI
+ORD0039,2025-03-09,Aarav Sharma,Notebook,Stationery,North,Delhi,3,77.44,0.05,220.7,151.01,69.69,Net Banking
+ORD0206,2025-03-09,Ishaan Kumar,Bookshelf,Furniture,Central,Bhopal,2,6612.76,0.02,12961.01,10183.65,2777.36,Net Banking
+ORD0225,2025-03-11,Rohan Das,Keyboard,Electronics,North,Delhi,1,1879.54,0.08,1729.18,1353.27,375.91,UPI
+ORD0177,2025-03-14,Ananya Rao,Mouse,Electronics,Central,Bhopal,3,860.39,0.0,2581.17,1806.82,774.35,Net Banking
+ORD0147,2025-03-14,Arjun Nair,Mouse,Electronics,West,Mumbai,3,764.88,0.15,1950.44,1606.25,344.19,Debit Card
+ORD0256,2025-03-14,Kabir Singh,Monitor,Electronics,Central,Bhopal,1,13530.07,0.08,12447.66,10553.45,1894.21,UPI
+ORD0254,2025-03-15,Kabir Singh,Bookshelf,Furniture,East,Kolkata,1,7244.57,0.15,6157.88,5578.32,579.56,UPI
+ORD0123,2025-03-16,Diya Patel,Printer,Electronics,South,Chennai,2,10141.24,0.1,18254.23,16225.98,2028.25,Debit Card
+ORD0297,2025-03-18,Vikram Shah,Printer,Electronics,North,Delhi,1,10038.82,0.08,9235.71,8031.06,1204.65,UPI
+ORD0034,2025-03-21,Nisha Reddy,Pen Set,Stationery,Central,Bhopal,1,143.22,0.0,143.22,85.93,57.29,Cash
+ORD0138,2025-03-22,Vikram Shah,Printer,Electronics,East,Kolkata,1,10176.76,0.1,9159.08,8141.41,1017.67,Net Banking
+ORD0247,2025-03-24,Rohan Das,Keyboard,Electronics,Central,Bhopal,1,1860.29,0.05,1767.28,1339.41,427.87,Credit Card
+ORD0266,2025-03-25,Meera Iyer,Desk,Furniture,Central,Bhopal,2,12223.68,0.05,23224.99,18579.99,4645.0,Cash
+ORD0274,2025-03-30,Vikram Shah,Desk,Furniture,East,Kolkata,2,12063.6,0.1,21714.48,18336.67,3377.81,Debit Card
+ORD0284,2025-03-31,Sara Khan,Laptop,Electronics,West,Mumbai,2,68511.09,0.0,137022.18,112358.19,24663.99,UPI
+ORD0161,2025-03-31,Diya Patel,Laptop,Electronics,Central,Bhopal,1,61118.29,0.08,56228.83,50117.0,6111.83,Credit Card
+ORD0136,2025-03-31,Sara Khan,Keyboard,Electronics,South,Chennai,1,1906.8,0.1,1716.12,1372.9,343.22,Cash
+ORD0088,2025-04-01,Arjun Nair,Notebook,Stationery,Central,Bhopal,3,85.96,0.05,244.99,167.62,77.37,Net Banking
+ORD0156,2025-04-08,Vikram Shah,Office Chair,Furniture,North,Delhi,6,9110.65,0.08,50290.79,40997.92,9292.87,UPI
+ORD0097,2025-04-09,Arjun Nair,Keyboard,Electronics,Central,Bhopal,1,1795.45,0.15,1526.13,1292.72,233.41,Cash
+ORD0248,2025-04-11,Priya Menon,Office Chair,Furniture,East,Kolkata,3,8569.14,0.02,25193.27,19280.56,5912.71,Cash
+ORD0145,2025-04-13,Arjun Nair,Keyboard,Electronics,Central,Bhopal,1,1811.35,0.05,1720.78,1304.17,416.61,Debit Card
+ORD0226,2025-04-13,Kabir Singh,Laptop,Electronics,Central,Bhopal,5,63082.2,0.05,299640.45,258637.02,41003.43,Cash
+ORD0119,2025-04-15,Nisha Reddy,Laptop,Electronics,West,Mumbai,1,61162.54,0.05,58104.41,50153.28,7951.13,Net Banking
+ORD0158,2025-04-17,Ishaan Kumar,Printer,Electronics,East,Kolkata,2,9975.84,0.02,19552.65,15961.34,3591.31,Cash
+ORD0049,2025-04-18,Kabir Singh,Desk,Furniture,Central,Bhopal,3,12320.51,0.05,35113.45,28090.76,7022.69,Cash
+ORD0044,2025-04-18,Arjun Nair,Bookshelf,Furniture,East,Kolkata,3,6668.03,0.15,17003.48,15403.15,1600.33,Net Banking
+ORD0279,2025-04-20,Ishaan Kumar,Pen Set,Stationery,East,Kolkata,1,150.93,0.1,135.84,90.56,45.28,Credit Card
+ORD0005,2025-04-21,Diya Patel,Keyboard,Electronics,West,Mumbai,6,1752.94,0.0,10517.64,7572.7,2944.94,Debit Card
+ORD0259,2025-04-21,Priya Menon,Monitor,Electronics,West,Mumbai,2,12988.99,0.05,24679.08,20262.82,4416.26,Net Banking
+ORD0182,2025-04-23,Rohan Das,Laptop,Electronics,South,Chennai,2,66032.98,0.0,132065.96,108294.09,23771.87,UPI
+ORD0173,2025-04-25,Diya Patel,Pen Set,Stationery,East,Kolkata,4,146.4,0.1,527.04,351.36,175.68,Debit Card
+ORD0174,2025-04-26,Vikram Shah,Bookshelf,Furniture,Central,Bhopal,4,7386.57,0.1,26591.65,22750.64,3841.01,Cash
+ORD0142,2025-04-28,Priya Menon,Office Chair,Furniture,South,Chennai,3,8299.16,0.15,21162.86,18673.11,2489.75,Debit Card
+ORD0025,2025-04-28,Ananya Rao,Printer,Electronics,North,Delhi,2,8750.93,0.15,14876.58,14001.49,875.09,Credit Card
+ORD0137,2025-04-29,Sara Khan,Keyboard,Electronics,North,Delhi,2,1729.15,0.05,3285.39,2489.98,795.41,Debit Card
+ORD0152,2025-05-01,Vikram Shah,Mouse,Electronics,East,Kolkata,5,753.36,0.08,3465.46,2636.76,828.7,Cash
+ORD0190,2025-05-01,Ishaan Kumar,Keyboard,Electronics,Central,Bhopal,1,1729.72,0.02,1695.13,1245.4,449.73,Credit Card
+ORD0133,2025-05-01,Kabir Singh,Mouse,Electronics,North,Delhi,3,853.88,0.02,2510.41,1793.15,717.26,Credit Card
+ORD0050,2025-05-02,Aarav Sharma,Keyboard,Electronics,West,Mumbai,4,1937.15,0.02,7593.63,5578.99,2014.64,UPI
+ORD0106,2025-05-03,Sara Khan,Keyboard,Electronics,West,Mumbai,1,1677.62,0.0,1677.62,1207.89,469.73,Cash
+ORD0223,2025-05-04,Ishaan Kumar,Desk,Furniture,East,Kolkata,3,12246.25,0.1,33064.88,27921.45,5143.43,Credit Card
+ORD0090,2025-05-05,Meera Iyer,Pen Set,Stationery,West,Mumbai,3,151.68,0.15,386.78,273.02,113.76,Credit Card
+ORD0081,2025-05-07,Ishaan Kumar,Laptop,Electronics,South,Chennai,1,60011.95,0.02,58811.71,49209.8,9601.91,Net Banking
+ORD0037,2025-05-07,Vikram Shah,Bookshelf,Furniture,West,Mumbai,2,6484.51,0.0,12969.02,9986.15,2982.87,Cash
+ORD0227,2025-05-10,Aarav Sharma,Pen Set,Stationery,East,Kolkata,1,153.53,0.05,145.85,92.12,53.73,Debit Card
+ORD0183,2025-05-11,Ishaan Kumar,Keyboard,Electronics,West,Mumbai,1,1690.56,0.08,1555.32,1217.2,338.12,UPI
+ORD0300,2025-05-11,Aarav Sharma,Notebook,Stationery,North,Delhi,4,83.15,0.1,299.34,216.19,83.15,Net Banking
+ORD0146,2025-05-12,Diya Patel,Keyboard,Electronics,East,Kolkata,5,1927.93,0.05,9157.67,6940.55,2217.12,Net Banking
+ORD0290,2025-05-14,Rohan Das,Laptop,Electronics,East,Kolkata,2,64446.05,0.05,122447.49,105691.52,16755.97,Cash
+ORD0238,2025-05-14,Nisha Reddy,Office Chair,Furniture,East,Kolkata,3,8111.82,0.1,21901.91,18251.6,3650.31,Net Banking
+ORD0018,2025-05-15,Vikram Shah,Laptop,Electronics,North,Delhi,6,67724.41,0.1,365711.81,333204.1,32507.71,Debit Card
+ORD0043,2025-05-16,Rohan Das,Keyboard,Electronics,South,Chennai,1,1686.83,0.1,1518.15,1214.52,303.63,Debit Card
+ORD0033,2025-05-16,Nisha Reddy,Notebook,Stationery,West,Mumbai,5,83.65,0.05,397.34,271.86,125.48,Cash
+ORD0017,2025-05-17,Ishaan Kumar,Printer,Electronics,West,Mumbai,3,9257.07,0.05,26382.65,22216.97,4165.68,Net Banking
+ORD0071,2025-05-20,Ishaan Kumar,Monitor,Electronics,South,Chennai,1,14880.38,0.0,14880.38,11606.7,3273.68,UPI
+ORD0159,2025-05-22,Rohan Das,Laptop,Electronics,Central,Bhopal,4,61304.75,0.02,240314.62,201079.58,39235.04,UPI
+ORD0004,2025-05-23,Meera Iyer,Bookshelf,Furniture,West,Mumbai,4,6447.28,0.02,25273.34,19857.62,5415.72,Debit Card
+ORD0154,2025-05-24,Ananya Rao,Notebook,Stationery,West,Mumbai,1,78.34,0.08,72.07,50.92,21.15,Debit Card
+ORD0200,2025-05-26,Meera Iyer,Notebook,Stationery,South,Chennai,1,84.5,0.1,76.05,54.93,21.12,Credit Card
+ORD0215,2025-05-27,Sara Khan,Laptop,Electronics,West,Mumbai,5,64713.53,0.02,317096.3,265325.47,51770.83,Cash
+ORD0172,2025-05-28,Ananya Rao,Laptop,Electronics,Central,Bhopal,3,63457.12,0.1,171334.22,156104.52,15229.7,UPI
+ORD0277,2025-05-28,Meera Iyer,Office Chair,Furniture,West,Mumbai,1,8740.21,0.08,8040.99,6555.16,1485.83,UPI
+ORD0122,2025-05-30,Ananya Rao,Pen Set,Stationery,West,Mumbai,2,144.56,0.08,265.99,173.47,92.52,Net Banking
+ORD0107,2025-05-30,Diya Patel,Pen Set,Stationery,West,Mumbai,1,144.91,0.05,137.66,86.95,50.71,UPI
+ORD0094,2025-05-31,Meera Iyer,Mouse,Electronics,Central,Bhopal,1,824.55,0.05,783.32,577.18,206.14,Net Banking
+ORD0096,2025-06-06,Diya Patel,Office Chair,Furniture,East,Kolkata,1,7984.09,0.02,7824.41,5988.07,1836.34,Cash
+ORD0292,2025-06-07,Nisha Reddy,Pen Set,Stationery,East,Kolkata,1,154.47,0.15,131.3,92.68,38.62,Credit Card
+ORD0059,2025-06-08,Arjun Nair,Printer,Electronics,East,Kolkata,3,9235.8,0.15,23551.29,22165.92,1385.37,UPI
+ORD0243,2025-06-08,Kabir Singh,Mouse,Electronics,Central,Bhopal,2,827.77,0.08,1523.1,1158.88,364.22,Net Banking
+ORD0202,2025-06-08,Vikram Shah,Mouse,Electronics,South,Chennai,2,818.37,0.05,1554.9,1145.72,409.18,Cash
+ORD0035,2025-06-10,Ishaan Kumar,Laptop,Electronics,Central,Bhopal,1,65875.45,0.1,59287.9,54017.87,5270.03,Credit Card
+ORD0117,2025-06-11,Aarav Sharma,Mouse,Electronics,Central,Bhopal,1,750.84,0.08,690.77,525.59,165.18,Cash
+ORD0132,2025-06-12,Aarav Sharma,Notebook,Stationery,Central,Bhopal,3,84.96,0.08,234.49,165.67,68.82,Cash
+ORD0214,2025-06-13,Ishaan Kumar,Laptop,Electronics,East,Kolkata,5,68527.43,0.15,291241.58,280962.46,10279.12,UPI
+ORD0196,2025-06-14,Diya Patel,Monitor,Electronics,West,Mumbai,3,14003.06,0.0,42009.18,32767.16,9242.02,Debit Card
+ORD0283,2025-06-14,Ananya Rao,Office Chair,Furniture,Central,Bhopal,1,7900.46,0.0,7900.46,5925.35,1975.11,Cash
+ORD0020,2025-06-15,Ananya Rao,Bookshelf,Furniture,East,Kolkata,2,6565.29,0.05,12474.05,10110.55,2363.5,Credit Card
+ORD0192,2025-06-15,Diya Patel,Bookshelf,Furniture,West,Mumbai,4,7142.48,0.02,27998.52,21998.84,5999.68,Net Banking
+ORD0091,2025-06-16,Rohan Das,Pen Set,Stationery,East,Kolkata,1,143.09,0.05,135.94,85.85,50.09,Cash
+ORD0257,2025-06-17,Sara Khan,Keyboard,Electronics,South,Chennai,5,1863.68,0.02,9132.03,6709.25,2422.78,Cash
+ORD0231,2025-06-17,Ishaan Kumar,Mouse,Electronics,West,Mumbai,3,775.23,0.1,2093.12,1627.98,465.14,Net Banking
+ORD0287,2025-06-19,Aarav Sharma,Mouse,Electronics,South,Chennai,1,794.74,0.05,755.0,556.32,198.68,Debit Card
+ORD0026,2025-06-19,Ananya Rao,Laptop,Electronics,West,Mumbai,1,62275.25,0.15,52933.96,51065.71,1868.25,Cash
+ORD0126,2025-06-20,Ananya Rao,Desk,Furniture,East,Kolkata,2,12083.39,0.08,22233.44,18366.75,3866.69,UPI
+ORD0076,2025-06-22,Sara Khan,Notebook,Stationery,South,Chennai,3,83.82,0.15,213.74,163.45,50.29,UPI
+ORD0250,2025-06-22,Aarav Sharma,Bookshelf,Furniture,North,Delhi,4,7071.25,0.0,28285.0,21779.45,6505.55,Cash
+ORD0131,2025-06-23,Vikram Shah,Office Chair,Furniture,East,Kolkata,3,8360.58,0.0,25081.74,18811.31,6270.43,Cash
+ORD0176,2025-06-23,Vikram Shah,Office Chair,Furniture,Central,Bhopal,2,8066.71,0.02,15810.75,12100.07,3710.68,Net Banking
+ORD0124,2025-06-24,Nisha Reddy,Notebook,Stationery,East,Kolkata,5,80.1,0.0,400.5,260.32,140.18,Debit Card
+ORD0204,2025-06-24,Ishaan Kumar,Monitor,Electronics,South,Chennai,5,13969.25,0.02,68449.32,54480.08,13969.24,Credit Card
+ORD0086,2025-06-27,Vikram Shah,Laptop,Electronics,Central,Bhopal,2,66679.82,0.0,133359.64,109354.9,24004.74,Debit Card
+ORD0220,2025-06-30,Arjun Nair,Bookshelf,Furniture,North,Delhi,1,6906.56,0.15,5870.58,5318.05,552.53,Debit Card
+ORD0135,2025-07-03,Priya Menon,Office Chair,Furniture,West,Mumbai,2,8017.97,0.1,14432.35,12026.95,2405.4,UPI
+ORD0144,2025-07-06,Nisha Reddy,Bookshelf,Furniture,East,Kolkata,3,6540.95,0.05,18641.71,15109.59,3532.12,Net Banking
+ORD0261,2025-07-07,Meera Iyer,Notebook,Stationery,South,Chennai,1,74.25,0.1,66.83,48.26,18.57,Cash
+ORD0293,2025-07-08,Ishaan Kumar,Office Chair,Furniture,West,Mumbai,3,8118.01,0.02,23866.95,18265.52,5601.43,Net Banking
+ORD0294,2025-07-11,Vikram Shah,Bookshelf,Furniture,Central,Bhopal,2,7055.14,0.08,12981.46,10864.92,2116.54,UPI
+ORD0079,2025-07-14,Diya Patel,Desk,Furniture,East,Kolkata,1,12866.31,0.08,11837.01,9778.4,2058.61,Net Banking
+ORD0074,2025-07-14,Kabir Singh,Bookshelf,Furniture,West,Mumbai,2,7495.87,0.05,14242.15,11543.64,2698.51,Cash
+ORD0016,2025-07-15,Aarav Sharma,Notebook,Stationery,Central,Bhopal,2,79.59,0.05,151.22,103.47,47.75,Credit Card
+ORD0149,2025-07-15,Sara Khan,Bookshelf,Furniture,South,Chennai,4,7493.13,0.0,29972.52,23078.84,6893.68,Credit Card
+ORD0235,2025-07-16,Meera Iyer,Desk,Furniture,West,Mumbai,5,11102.18,0.02,54400.68,42188.28,12212.4,Debit Card
+ORD0127,2025-07-16,Nisha Reddy,Bookshelf,Furniture,East,Kolkata,1,7308.61,0.0,7308.61,5627.63,1680.98,Net Banking
+ORD0128,2025-07-17,Sara Khan,Notebook,Stationery,South,Chennai,6,83.74,0.15,427.07,326.59,100.48,Credit Card
+ORD0148,2025-07-22,Vikram Shah,Mouse,Electronics,East,Kolkata,1,804.68,0.08,740.31,563.28,177.03,Debit Card
+ORD0054,2025-07-24,Diya Patel,Printer,Electronics,North,Delhi,3,10022.36,0.05,28563.73,24053.66,4510.07,Debit Card
+ORD0066,2025-07-24,Kabir Singh,Pen Set,Stationery,North,Delhi,1,153.75,0.0,153.75,92.25,61.5,UPI
+ORD0012,2025-07-25,Ananya Rao,Desk,Furniture,East,Kolkata,1,11445.09,0.1,10300.58,8698.27,1602.31,Net Banking
+ORD0029,2025-07-26,Ananya Rao,Laptop,Electronics,South,Chennai,3,68126.16,0.0,204378.48,167590.35,36788.13,UPI
+ORD0061,2025-07-27,Kabir Singh,Office Chair,Furniture,South,Chennai,2,7820.55,0.05,14859.05,11730.83,3128.22,Cash
+ORD0282,2025-07-28,Vikram Shah,Keyboard,Electronics,West,Mumbai,3,1909.63,0.08,5270.58,4124.8,1145.78,UPI
+ORD0207,2025-07-30,Rohan Das,Laptop,Electronics,Central,Bhopal,2,67283.69,0.08,123801.99,110345.25,13456.74,Net Banking
+ORD0051,2025-07-30,Ishaan Kumar,Desk,Furniture,East,Kolkata,4,12699.0,0.02,49780.08,38604.96,11175.12,Credit Card
+ORD0118,2025-07-31,Vikram Shah,Pen Set,Stationery,West,Mumbai,1,150.44,0.1,135.4,90.26,45.14,Net Banking
+ORD0272,2025-07-31,Nisha Reddy,Keyboard,Electronics,West,Mumbai,3,1774.19,0.1,4790.31,3832.25,958.06,Credit Card
+ORD0073,2025-08-01,Nisha Reddy,Pen Set,Stationery,Central,Bhopal,1,157.99,0.08,145.35,94.79,50.56,Credit Card
+ORD0268,2025-08-02,Priya Menon,Mouse,Electronics,North,Delhi,2,837.98,0.15,1424.57,1173.17,251.4,Net Banking
+ORD0060,2025-08-04,Priya Menon,Monitor,Electronics,South,Chennai,3,13729.29,0.15,35009.69,32126.54,2883.15,Cash
+ORD0087,2025-08-04,Nisha Reddy,Laptop,Electronics,West,Mumbai,4,60897.6,0.05,231410.88,199744.13,31666.75,UPI
+ORD0217,2025-08-05,Aarav Sharma,Printer,Electronics,North,Delhi,1,9177.91,0.05,8719.01,7342.33,1376.68,UPI
+ORD0169,2025-08-07,Diya Patel,Desk,Furniture,West,Mumbai,1,11529.39,0.02,11298.8,8762.34,2536.46,Credit Card
+ORD0014,2025-08-08,Arjun Nair,Bookshelf,Furniture,South,Chennai,5,6887.33,0.02,33747.92,26516.22,7231.7,Net Banking
+ORD0230,2025-08-09,Meera Iyer,Mouse,Electronics,East,Kolkata,3,841.26,0.1,2271.4,1766.65,504.75,Credit Card
+ORD0167,2025-08-09,Nisha Reddy,Bookshelf,Furniture,Central,Bhopal,1,7225.99,0.15,6142.09,5564.01,578.08,UPI
+ORD0089,2025-08-12,Diya Patel,Pen Set,Stationery,South,Chennai,4,152.22,0.05,578.44,365.33,213.11,Debit Card
+ORD0185,2025-08-12,Kabir Singh,Laptop,Electronics,Central,Bhopal,1,69380.09,0.05,65911.09,56891.67,9019.42,Cash
+ORD0056,2025-08-12,Ananya Rao,Desk,Furniture,Central,Bhopal,3,12021.93,0.08,33180.53,27410.0,5770.53,Debit Card
+ORD0134,2025-08-16,Meera Iyer,Mouse,Electronics,North,Delhi,1,774.33,0.0,774.33,542.03,232.3,Credit Card
+ORD0232,2025-08-17,Kabir Singh,Desk,Furniture,Central,Bhopal,1,12710.47,0.05,12074.95,9659.96,2414.99,Debit Card
+ORD0030,2025-08-18,Diya Patel,Printer,Electronics,South,Chennai,1,9018.9,0.08,8297.39,7215.12,1082.27,Net Banking
+ORD0162,2025-08-18,Arjun Nair,Pen Set,Stationery,West,Mumbai,3,150.32,0.0,450.96,270.58,180.38,UPI
+ORD0104,2025-08-19,Rohan Das,Notebook,Stationery,West,Mumbai,5,77.41,0.1,348.34,251.58,96.76,Cash
+ORD0168,2025-08-20,Kabir Singh,Notebook,Stationery,West,Mumbai,5,78.9,0.08,362.94,256.43,106.51,Credit Card
+ORD0178,2025-08-21,Priya Menon,Notebook,Stationery,East,Kolkata,1,78.34,0.15,66.59,50.92,15.67,Cash
+ORD0009,2025-08-21,Ananya Rao,Office Chair,Furniture,East,Kolkata,3,8316.17,0.05,23701.08,18711.38,4989.7,Debit Card
+ORD0299,2025-08-22,Nisha Reddy,Notebook,Stationery,East,Kolkata,2,80.75,0.15,137.28,104.98,32.3,Credit Card
+ORD0139,2025-08-22,Diya Patel,Office Chair,Furniture,West,Mumbai,4,8090.94,0.08,29774.66,24272.82,5501.84,UPI
+ORD0187,2025-08-24,Diya Patel,Bookshelf,Furniture,West,Mumbai,4,7470.14,0.0,29880.56,23008.03,6872.53,UPI
+ORD0078,2025-08-25,Sara Khan,Keyboard,Electronics,South,Chennai,1,1730.93,0.05,1644.38,1246.27,398.11,Debit Card
+ORD0194,2025-08-25,Vikram Shah,Office Chair,Furniture,North,Delhi,2,7897.37,0.05,15005.0,11846.06,3158.94,Credit Card
+ORD0209,2025-08-25,Kabir Singh,Pen Set,Stationery,Central,Bhopal,3,156.67,0.1,423.01,282.01,141.0,UPI
+ORD0114,2025-08-29,Priya Menon,Keyboard,Electronics,South,Chennai,2,1783.36,0.05,3388.38,2568.04,820.34,Net Banking
+ORD0270,2025-09-03,Ishaan Kumar,Bookshelf,Furniture,West,Mumbai,1,7144.51,0.1,6430.06,5501.27,928.79,UPI
+ORD0275,2025-09-05,Ananya Rao,Bookshelf,Furniture,East,Kolkata,1,6716.1,0.1,6044.49,5171.4,873.09,Debit Card
+ORD0032,2025-09-06,Kabir Singh,Notebook,Stationery,South,Chennai,2,84.67,0.0,169.34,110.07,59.27,Credit Card
+ORD0180,2025-09-06,Diya Patel,Notebook,Stationery,Central,Bhopal,3,78.9,0.02,231.97,153.86,78.11,Debit Card
+ORD0298,2025-09-08,Ishaan Kumar,Bookshelf,Furniture,West,Mumbai,1,7011.62,0.0,7011.62,5398.95,1612.67,Cash
+ORD0229,2025-09-12,Diya Patel,Keyboard,Electronics,East,Kolkata,3,1761.8,0.1,4756.86,3805.49,951.37,Net Banking
+ORD0258,2025-09-13,Arjun Nair,Pen Set,Stationery,West,Mumbai,4,149.94,0.0,599.76,359.86,239.9,Net Banking
+ORD0246,2025-09-15,Ishaan Kumar,Notebook,Stationery,Central,Bhopal,5,74.31,0.0,371.55,241.51,130.04,Debit Card
+ORD0129,2025-09-15,Diya Patel,Keyboard,Electronics,West,Mumbai,6,1751.61,0.0,10509.66,7566.96,2942.7,Cash
+ORD0249,2025-09-15,Ishaan Kumar,Mouse,Electronics,South,Chennai,3,811.75,0.1,2191.72,1704.67,487.05,Cash
+ORD0197,2025-09-16,Sara Khan,Mouse,Electronics,West,Mumbai,3,741.01,0.15,1889.58,1556.12,333.46,Cash
+ORD0241,2025-09-18,Sara Khan,Desk,Furniture,South,Chennai,1,12931.45,0.02,12672.82,9827.9,2844.92,Credit Card
+ORD0212,2025-09-20,Meera Iyer,Pen Set,Stationery,West,Mumbai,1,148.5,0.02,145.53,89.1,56.43,Credit Card
+ORD0255,2025-09-21,Rohan Das,Desk,Furniture,North,Delhi,2,11652.7,0.08,21440.97,17712.1,3728.87,Net Banking
+ORD0024,2025-09-22,Aarav Sharma,Pen Set,Stationery,East,Kolkata,2,143.95,0.0,287.9,172.74,115.16,Cash
+ORD0265,2025-09-23,Meera Iyer,Pen Set,Stationery,South,Chennai,2,152.55,0.1,274.59,183.06,91.53,Cash
+ORD0273,2025-09-23,Arjun Nair,Keyboard,Electronics,West,Mumbai,1,1749.61,0.15,1487.17,1259.72,227.45,Net Banking
+ORD0070,2025-09-24,Nisha Reddy,Office Chair,Furniture,North,Delhi,2,8145.37,0.08,14987.48,12218.06,2769.42,Debit Card
+ORD0038,2025-09-25,Ananya Rao,Bookshelf,Furniture,East,Kolkata,1,6732.06,0.15,5722.25,5183.69,538.56,Debit Card
+ORD0286,2025-09-26,Rohan Das,Printer,Electronics,West,Mumbai,2,10166.61,0.1,18299.9,16266.58,2033.32,UPI
+ORD0221,2025-09-27,Aarav Sharma,Mouse,Electronics,Central,Bhopal,2,836.66,0.1,1505.99,1171.32,334.67,Net Banking
+ORD0095,2025-09-29,Meera Iyer,Printer,Electronics,East,Kolkata,1,10254.88,0.1,9229.39,8203.9,1025.49,Net Banking
+ORD0184,2025-09-30,Diya Patel,Notebook,Stationery,East,Kolkata,3,80.0,0.15,204.0,156.0,48.0,Net Banking
+ORD0267,2025-09-30,Meera Iyer,Printer,Electronics,North,Delhi,2,9595.64,0.08,17655.98,15353.02,2302.96,Debit Card
+ORD0077,2025-10-01,Diya Patel,Bookshelf,Furniture,North,Delhi,1,6881.3,0.1,6193.17,5298.6,894.57,Net Banking
+ORD0208,2025-10-01,Meera Iyer,Monitor,Electronics,South,Chennai,1,15042.94,0.08,13839.5,11733.49,2106.01,Cash
+ORD0260,2025-10-02,Nisha Reddy,Office Chair,Furniture,East,Kolkata,1,7966.2,0.02,7806.88,5974.65,1832.23,Debit Card
+ORD0080,2025-10-04,Vikram Shah,Laptop,Electronics,North,Delhi,1,69699.96,0.02,68305.96,57153.97,11151.99,Credit Card
+ORD0023,2025-10-04,Kabir Singh,Monitor,Electronics,East,Kolkata,3,14425.3,0.15,36784.51,33755.2,3029.31,Debit Card
+ORD0224,2025-10-07,Nisha Reddy,Desk,Furniture,West,Mumbai,1,12274.17,0.15,10433.04,9328.37,1104.67,Net Banking
+ORD0069,2025-10-08,Rohan Das,Notebook,Stationery,West,Mumbai,2,75.64,0.08,139.18,98.33,40.85,UPI
+ORD0121,2025-10-10,Diya Patel,Laptop,Electronics,West,Mumbai,2,62136.89,0.0,124273.78,101904.5,22369.28,UPI
+ORD0007,2025-10-10,Ananya Rao,Mouse,Electronics,Central,Bhopal,1,816.47,0.05,775.65,571.53,204.12,Credit Card
+ORD0242,2025-10-11,Priya Menon,Desk,Furniture,South,Chennai,2,11937.42,0.1,21487.36,18144.88,3342.48,Credit Card
+ORD0092,2025-10-12,Nisha Reddy,Office Chair,Furniture,South,Chennai,1,9109.37,0.0,9109.37,6832.03,2277.34,Net Banking
+ORD0093,2025-10-12,Sara Khan,Pen Set,Stationery,West,Mumbai,3,154.57,0.15,394.15,278.23,115.92,Credit Card
+ORD0003,2025-10-15,Ananya Rao,Laptop,Electronics,West,Mumbai,1,66558.8,0.1,59902.92,54578.22,5324.7,Net Banking
+ORD0150,2025-10-15,Vikram Shah,Bookshelf,Furniture,North,Delhi,1,7123.29,0.15,6054.8,5484.93,569.87,Net Banking
+ORD0171,2025-10-15,Vikram Shah,Bookshelf,Furniture,East,Kolkata,2,7190.41,0.08,13230.35,11073.23,2157.12,Net Banking
+ORD0040,2025-10-16,Rohan Das,Bookshelf,Furniture,Central,Bhopal,6,6522.05,0.02,38349.65,30131.87,8217.78,UPI
+ORD0082,2025-10-16,Ishaan Kumar,Mouse,Electronics,East,Kolkata,5,795.52,0.05,3778.72,2784.32,994.4,Cash
+ORD0021,2025-10-18,Arjun Nair,Monitor,Electronics,North,Delhi,5,13071.86,0.08,60130.56,50980.25,9150.31,UPI
+ORD0288,2025-10-18,Kabir Singh,Office Chair,Furniture,West,Mumbai,3,8082.7,0.1,21823.29,18186.07,3637.22,Cash
+ORD0027,2025-10-20,Ananya Rao,Keyboard,Electronics,West,Mumbai,2,1725.98,0.08,3175.8,2485.41,690.39,Credit Card
+ORD0140,2025-10-20,Aarav Sharma,Notebook,Stationery,East,Kolkata,2,77.39,0.15,131.56,100.61,30.95,Net Banking
+ORD0271,2025-10-21,Meera Iyer,Laptop,Electronics,West,Mumbai,5,60942.91,0.0,304714.55,249865.93,54848.62,Net Banking
+ORD0084,2025-10-22,Diya Patel,Office Chair,Furniture,South,Chennai,3,9123.12,0.08,25179.81,20527.02,4652.79,Cash
+ORD0102,2025-10-23,Rohan Das,Mouse,Electronics,Central,Bhopal,3,742.86,0.02,2184.01,1560.01,624.0,Credit Card
+ORD0125,2025-10-24,Arjun Nair,Bookshelf,Furniture,West,Mumbai,6,6988.4,0.02,41091.79,32286.41,8805.38,Net Banking
+ORD0055,2025-10-25,Kabir Singh,Keyboard,Electronics,Central,Bhopal,6,1732.45,0.0,10394.7,7484.18,2910.52,Debit Card
+ORD0048,2025-10-26,Meera Iyer,Desk,Furniture,East,Kolkata,2,11865.19,0.0,23730.38,18035.09,5695.29,Credit Card
+ORD0153,2025-10-28,Sara Khan,Notebook,Stationery,North,Delhi,3,75.58,0.08,208.6,147.38,61.22,Cash
+ORD0280,2025-10-28,Vikram Shah,Bookshelf,Furniture,South,Chennai,1,6496.86,0.1,5847.17,5002.58,844.59,UPI
+ORD0188,2025-10-29,Ananya Rao,Notebook,Stationery,East,Kolkata,2,74.61,0.05,141.76,96.99,44.77,Debit Card
+ORD0002,2025-10-30,Arjun Nair,Mouse,Electronics,South,Chennai,2,739.81,0.02,1450.03,1035.73,414.3,Cash
+ORD0110,2025-11-01,Diya Patel,Office Chair,Furniture,West,Mumbai,3,8594.12,0.05,24493.24,19336.77,5156.47,Net Banking
+ORD0195,2025-11-01,Sara Khan,Bookshelf,Furniture,North,Delhi,2,6958.24,0.1,12524.83,10715.69,1809.14,Cash
+ORD0264,2025-11-05,Ishaan Kumar,Monitor,Electronics,North,Delhi,2,14000.17,0.0,28000.34,21840.27,6160.07,Debit Card
+ORD0075,2025-11-05,Sara Khan,Printer,Electronics,West,Mumbai,5,9482.11,0.05,45040.02,37928.44,7111.58,Credit Card
+ORD0006,2025-11-06,Diya Patel,Desk,Furniture,Central,Bhopal,1,11123.42,0.08,10233.55,8453.8,1779.75,Net Banking
+ORD0210,2025-11-06,Meera Iyer,Monitor,Electronics,West,Mumbai,1,13440.01,0.15,11424.01,10483.21,940.8,Cash
+ORD0175,2025-11-08,Ishaan Kumar,Laptop,Electronics,North,Delhi,5,68426.39,0.05,325025.35,280548.2,44477.15,Debit Card
+ORD0019,2025-11-08,Arjun Nair,Printer,Electronics,Central,Bhopal,1,9308.35,0.02,9122.18,7446.68,1675.5,Credit Card
+ORD0010,2025-11-08,Sara Khan,Mouse,Electronics,South,Chennai,3,804.37,0.02,2364.85,1689.18,675.67,Net Banking
+ORD0065,2025-11-09,Ananya Rao,Pen Set,Stationery,Central,Bhopal,4,139.75,0.08,514.28,335.4,178.88,Net Banking
+ORD0198,2025-11-09,Kabir Singh,Printer,Electronics,West,Mumbai,1,9306.74,0.05,8841.4,7445.39,1396.01,Debit Card
+ORD0108,2025-11-17,Diya Patel,Office Chair,Furniture,West,Mumbai,2,8913.31,0.02,17470.09,13369.97,4100.12,Cash
+ORD0191,2025-11-18,Vikram Shah,Keyboard,Electronics,West,Mumbai,2,1873.28,0.1,3371.9,2697.52,674.38,Cash
+ORD0143,2025-11-18,Sara Khan,Keyboard,Electronics,East,Kolkata,1,1836.71,0.0,1836.71,1322.43,514.28,Credit Card
+ORD0193,2025-11-20,Arjun Nair,Pen Set,Stationery,East,Kolkata,1,144.59,0.0,144.59,86.75,57.84,Credit Card
+ORD0219,2025-11-20,Kabir Singh,Laptop,Electronics,East,Kolkata,2,62316.16,0.02,122139.67,102198.5,19941.17,Credit Card
+ORD0046,2025-11-23,Nisha Reddy,Keyboard,Electronics,Central,Bhopal,6,1702.54,0.08,9398.02,7354.97,2043.05,Net Banking
+ORD0011,2025-11-24,Ananya Rao,Office Chair,Furniture,North,Delhi,3,8118.68,0.05,23138.24,18267.03,4871.21,Credit Card
+ORD0218,2025-11-24,Priya Menon,Notebook,Stationery,West,Mumbai,4,79.45,0.0,317.8,206.57,111.23,Cash
+ORD0252,2025-11-25,Rohan Das,Office Chair,Furniture,West,Mumbai,6,8476.8,0.15,43231.68,38145.6,5086.08,Net Banking
+ORD0013,2025-11-26,Arjun Nair,Notebook,Stationery,Central,Bhopal,2,76.99,0.02,150.9,100.09,50.81,Debit Card
+ORD0203,2025-11-27,Rohan Das,Mouse,Electronics,East,Kolkata,3,801.09,0.0,2403.27,1682.29,720.98,UPI
+ORD0109,2025-11-28,Aarav Sharma,Monitor,Electronics,North,Delhi,1,13475.02,0.02,13205.52,10510.52,2695.0,UPI
+ORD0151,2025-11-29,Sara Khan,Office Chair,Furniture,East,Kolkata,2,8010.1,0.0,16020.2,12015.15,4005.05,Credit Card
+ORD0251,2025-11-30,Sara Khan,Office Chair,Furniture,North,Delhi,1,8598.11,0.1,7738.3,6448.58,1289.72,Cash
+ORD0042,2025-12-01,Vikram Shah,Bookshelf,Furniture,East,Kolkata,2,7188.01,0.1,12938.42,11069.54,1868.88,Credit Card
+ORD0269,2025-12-02,Nisha Reddy,Office Chair,Furniture,South,Chennai,4,8875.58,0.1,31952.09,26626.74,5325.35,Credit Card
+ORD0062,2025-12-02,Arjun Nair,Bookshelf,Furniture,South,Chennai,1,6934.8,0.15,5894.58,5339.8,554.78,Net Banking
+ORD0028,2025-12-04,Vikram Shah,Mouse,Electronics,North,Delhi,2,790.22,0.08,1454.0,1106.31,347.69,Credit Card
+ORD0063,2025-12-04,Meera Iyer,Keyboard,Electronics,Central,Bhopal,1,1804.45,0.15,1533.78,1299.2,234.58,Credit Card
+ORD0022,2025-12-04,Priya Menon,Keyboard,Electronics,Central,Bhopal,2,1814.34,0.05,3447.25,2612.65,834.6,Net Banking
+ORD0160,2025-12-05,Priya Menon,Mouse,Electronics,South,Chennai,4,752.87,0.05,2860.91,2108.04,752.87,Debit Card
+ORD0008,2025-12-05,Diya Patel,Laptop,Electronics,South,Chennai,1,62809.63,0.0,62809.63,51503.9,11305.73,Net Banking
+ORD0201,2025-12-06,Ishaan Kumar,Bookshelf,Furniture,West,Mumbai,1,6831.8,0.15,5807.03,5260.49,546.54,Cash
+ORD0058,2025-12-07,Nisha Reddy,Mouse,Electronics,North,Delhi,5,815.76,0.15,3466.98,2855.16,611.82,Debit Card
+ORD0068,2025-12-08,Priya Menon,Pen Set,Stationery,West,Mumbai,2,151.41,0.05,287.68,181.69,105.99,Cash
+ORD0064,2025-12-11,Aarav Sharma,Monitor,Electronics,North,Delhi,1,14686.7,0.02,14392.97,11455.63,2937.34,UPI
+ORD0113,2025-12-12,Priya Menon,Monitor,Electronics,East,Kolkata,4,14168.45,0.0,56673.8,44205.56,12468.24,Credit Card
+ORD0234,2025-12-14,Vikram Shah,Bookshelf,Furniture,South,Chennai,4,6478.97,0.0,25915.88,19955.23,5960.65,Debit Card
+ORD0295,2025-12-15,Sara Khan,Monitor,Electronics,Central,Bhopal,3,14835.82,0.0,44507.46,34715.82,9791.64,Cash
+ORD0155,2025-12-18,Aarav Sharma,Mouse,Electronics,East,Kolkata,2,851.42,0.15,1447.41,1191.99,255.42,Net Banking
+ORD0253,2025-12-19,Ananya Rao,Mouse,Electronics,West,Mumbai,1,792.27,0.08,728.89,554.59,174.3,Debit Card
+ORD0116,2025-12-22,Aarav Sharma,Notebook,Stationery,Central,Bhopal,2,82.08,0.08,151.03,106.7,44.33,Net Banking
+ORD0072,2025-12-22,Meera Iyer,Notebook,Stationery,West,Mumbai,1,76.34,0.08,70.23,49.62,20.61,Cash
+ORD0067,2025-12-23,Sara Khan,Keyboard,Electronics,North,Delhi,2,1670.46,0.02,3274.1,2405.46,868.64,UPI
+ORD0111,2025-12-25,Sara Khan,Office Chair,Furniture,West,Mumbai,2,8190.25,0.1,14742.45,12285.38,2457.07,Credit Card
+ORD0276,2025-12-27,Meera Iyer,Office Chair,Furniture,West,Mumbai,1,8778.78,0.05,8339.84,6584.09,1755.75,Cash
+ORD0057,2025-12-29,Meera Iyer,Laptop,Electronics,South,Chennai,2,65207.17,0.1,117372.91,106939.76,10433.15,Net Banking
+ORD0240,2025-12-30,Nisha Reddy,Desk,Furniture,South,Chennai,1,12080.97,0.05,11476.92,9181.54,2295.38,UPI
+ORD0186,2025-12-30,Meera Iyer,Notebook,Stationery,North,Delhi,3,77.31,0.08,213.38,150.75,62.63,UPI
+ORD0211,2025-12-31,Ishaan Kumar,Mouse,Electronics,North,Delhi,4,844.95,0.05,3210.81,2365.86,844.95,Debit Card
+ORD0166,2025-12-31,Sara Khan,Printer,Electronics,East,Kolkata,1,10251.83,0.1,9226.65,8201.46,1025.19,Cash
